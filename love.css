@@ -1,0 +1,58 @@
+.three{
+text-decoration: none;
+}
+.experience-item{
+    padding: 50px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+}
+
+
+.experiences{
+padding: 30px;
+margin: 10px;
+background-color: rgb(238, 251, 255);
+border-radius:20px;
+padding-top: 27px;
+}
+
+.two{
+padding-top: 30px;
+background-color: pin;}
+.container{
+#background-colo: pink;
+display: inline-block;
+
+
+}
+h1{
+font-size: 2.35em;
+}
+
+
+
+.h1clr{
+  color:darkviolet  ;
+}
+
+body{
+  font-family: sans-serif;
+  color: #777777;
+  line-height:26px;
+}
+.half-width{
+    width:60% ;
+    float: left;
+}
+.one{
+padding-top: 130px;
+padding-left: 10%;
+
+}
+
+.pri-btn{
+    color: white;
+    background-color: #8845f4;
+    padding: 13px 42px 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
